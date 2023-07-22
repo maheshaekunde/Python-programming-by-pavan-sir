@@ -1,0 +1,31 @@
+# functions
+---------------
+A function is a block of code which only runs when it is called.
+
+You can pass data, known as parameters, into a function.
+
+A function can return data as a result.
+
+
+#Creating a Function:
+In Python a function is defined using the def keyword
+
+#Calling a Function:
+To call a function, use the function name followed by parenthesis
+
+
+# Global and Local variables:
+Python Global variables are those which are not defined inside any function and have a global scope whereas
+Python local variables are those which are defined inside a function and their scope is limited to that function only.
+In other words, we can say that local variables are accessible only inside the function in which
+it was initialized whereas the global variables are accessible throughout the program and inside every function.
+
+
+# two types of arguments/parameter we can pass to the function.
+1. Positional argument.
+2. Keyword argument.
+The terms parameter and argument can be used for the same thing: information that are passed into a function.
+
+From a function's perspective:
+A parameter is the variable listed inside the parentheses in the function definition.
+An argument is the value that are sent to the function when it is called

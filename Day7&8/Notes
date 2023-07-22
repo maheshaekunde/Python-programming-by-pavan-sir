@@ -1,0 +1,82 @@
+Oops(Object Oriented Programming Concepts):
+-------------------------------------------
+In Python, object-oriented Programming (OOPs) is a programming paradigm that uses objects and classes in programming.
+It aims to implement real-world entities like inheritance, polymorphisms, encapsulation, etc. in the programming
+
+This are oops:
+class
+object
+inheritance
+polymorphism
+
+
+Employee>> class (logical entities)
+john,scott etc>> object(physical entities)
+
+Animal>> class(Logical entities)
+Dog,hours, elephant>> Object(Physical entities)
+
+Class: It is collection of variables(attributes) and methods(behavior).
+-----
+A class is blue print.(logical entities)
+Does not occupy space in the memory.
+
+
+* Object: It is an instance of class.(Physical entities)
+-------
+Occupy certain memory.
+
+For one class,we can create multiple objects.
+Object are independent.
+
+
+* Function Vs Method:
+-------------------
+Function: We can create outside the class.
+Method: We can create inside the class.
+
+# 2 types of methods we can define within the class:
+1. Instance Method(we can call only through object)
+2. static Method(we can directly call using class)
+
+
+# Method Vs constructor:
+method: give any name.
+        return the values.
+        method can take arguments/parameter.
+        we have to use an object to invoke the method.
+
+Constructor: constructor name is fixed:
+                                   def __init__(self)
+             constructor will not return any values.
+             constructor can also take arguments/parameter.
+             constructor will be called at the time of object creation itself.
+
+
+############# Inheritance ###################
+* Inheritance:
+--------------
+Aquiring all the attributes(variable) and behaviour(method) from one class to another class.
+
+class A    ----> variables a,b,c     methode m1()  m2() ----> A is parent of B class(baseclass/superclass)
+class B(A) ----> variables x,y,z     methode m3()       ----> B is child(derived class/subclass) of A class
+
+Objectives of Inheritance:
+--------------------------
+1) Code re-usability
+2) Avoid duplication
+
+Types of Inheritance:
+---------------------
+1) Single Inheritance
+2) Multi level Inheritance
+3) Heirarchy Inheritance
+4) Multiple Inheritance
+
+
+################### Polymorphism ######################
+shape--> circle, rectangle,square...
+Polymorphism defines the ability to take different forms.
+Polymorphism in Python allows us to define methods in the child class with the same name as defined in their parent class.
+
+Polymorphism we can implement using overloading concept.

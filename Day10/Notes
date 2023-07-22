@@ -1,0 +1,23 @@
+Exception Handling:
+--------------------
+       Exception is an event which will cause program termination.
+       exception is not error, its syntax issue
+       when wrong input is given exception comes in picture.
+
+To handle exception we have 3 statement:
+1) try
+2) except: excutes only when exception occured
+3) else: execute if exception is not occured.
+4) finally: with or without exception, it will execute.
+
+
+# file handling/working with the text.
+---------------------------------------
+kind of computer file that is structured as a sequence of lines of electronic text.
+A text file exists stored as data within a computer file system.
+#(location,'w':to write)
+('r':reading)
+('a':append,add (something) to the end of a written document.)
+
+file.write("this is my last statement...........\n")
+\n keyword: represent new line in program.

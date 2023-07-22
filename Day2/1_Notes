@@ -1,0 +1,14 @@
+Operators:a symbol which will perform an operation between 2 or more variables
+1. Arithmetic: addition, substraction, multiplecation
+2. Relational: compaire some values
+3. Logical: compaire boolean values
+
+
+# Concatenation: obtaining a new string that contains both of the original strings
+
+# Control Statements:In Python, Loops are used to iterate repeatedly over a block of code.
+In order to change the way a loop is executed from its usual behavior, control statements are used.
+Control statements are used to control the flow of the execution of the loop based on a condition.
+1) Conditional statements: if    if,else    elif
+2) Looping statements: while    for
+3) Jumping statements: break    continue

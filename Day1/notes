@@ -1,0 +1,21 @@
+Keywords: Reserved words in python
+
+
+# Variables
+# 1. A variable is nothing but a reserved memory location to store values
+# 2. Variables are used to store the data
+# 3. memory allocated when the values are stored in variables
+# 4. every variable must have some type
+
+Data types:
+python is dynamically type programming languages.
+1. No need to tell which data type
+3.txt type: str
+4. numerica types: int, float(Decimal)
+5. Sequence types: list, tuple
+6. Mapping type: dict
+7. Set type: set
+8. Boolean type: bool
+
+
+

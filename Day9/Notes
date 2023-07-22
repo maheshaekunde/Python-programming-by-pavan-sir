@@ -1,0 +1,10 @@
+# Modules and Packages
+-------------------------
+Module>> collection of functions, classes(variables+methods).
+         functions created inside the class known as methods.
+         module means creating python file which contian functions and classes.
+
+Packages>> Collections of single modules or multiple modules.
+           modules contains functions and classes.
+           package means creating subdictories which contain py file
+
